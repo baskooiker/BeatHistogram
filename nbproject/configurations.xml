@@ -28,8 +28,6 @@
       <itemPath>../utils/HistogramBuffer.cpp</itemPath>
       <itemPath>../utils/HistogramBuffer.h</itemPath>
       <itemPath>../utils/Makefile</itemPath>
-      <itemPath>../utils/Swarm.cpp</itemPath>
-      <itemPath>../utils/Swarm.h</itemPath>
       <itemPath>../utils/m_pd.h</itemPath>
       <itemPath>../utils/utils.cpp</itemPath>
       <itemPath>../utils/utils.h</itemPath>
@@ -46,9 +44,6 @@
       <itemPath>Makefile</itemPath>
     </logicalFolder>
   </logicalFolder>
-  <sourceRootList>
-    <Elem>../utils</Elem>
-  </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
     <conf name="Debug" type="1">
@@ -69,10 +64,6 @@
       <item path="../utils/HistogramBuffer.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="../utils/Makefile" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="../utils/Swarm.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="../utils/Swarm.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="../utils/m_pd.h" ex="false" tool="3" flavor2="0">
       </item>
@@ -113,10 +104,6 @@
       <item path="../utils/HistogramBuffer.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="../utils/Makefile" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="../utils/Swarm.cpp" ex="false" tool="1" flavor2="0">
-      </item>
-      <item path="../utils/Swarm.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="../utils/m_pd.h" ex="false" tool="3" flavor2="0">
       </item>
